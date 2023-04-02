@@ -2,9 +2,14 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/DataCollector-Android.iml" filepath="$PROJECT_DIR$/DataCollector-Android.iml" />
-      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
-      <module fileurl="file://$PROJECT_DIR$/obd-java-api/obd-java-api.iml" filepath="$PROJECT_DIR$/obd-java-api/obd-java-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/DataCollector-Android-KWP.iml" filepath="$PROJECT_DIR$/.idea/modules/DataCollector-Android-KWP.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/DataCollector-Android-KWP.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/DataCollector-Android-KWP.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/DataCollector-Android-KWP.app.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/DataCollector-Android-KWP.app.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/DataCollector-Android-KWP.app.main.iml" filepath="$PROJECT_DIR$/.idea/modules/app/DataCollector-Android-KWP.app.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/DataCollector-Android-KWP.app.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/DataCollector-Android-KWP.app.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/obd-java-api/DataCollector-Android-KWP.obd-java-api.iml" filepath="$PROJECT_DIR$/.idea/modules/obd-java-api/DataCollector-Android-KWP.obd-java-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/obd-java-api/DataCollector-Android-KWP.obd-java-api.main.iml" filepath="$PROJECT_DIR$/.idea/modules/obd-java-api/DataCollector-Android-KWP.obd-java-api.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/obd-java-api/DataCollector-Android-KWP.obd-java-api.test.iml" filepath="$PROJECT_DIR$/.idea/modules/obd-java-api/DataCollector-Android-KWP.obd-java-api.test.iml" />
     </modules>
   </component>
 </project>
